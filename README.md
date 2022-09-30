@@ -1,6 +1,6 @@
-#Celestial Bodies Database#
+#Celestial Bodies Database
 
-##This is one of the required projects to earn my [FreeCodeCamp](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database) Relational Database Certification. For this project, I had to build a database of celestial bodies using PostgreSQL.##
+##This is one of the required projects to earn my [FreeCodeCamp](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database) Relational Database Certification. For this project, I had to build a database of celestial bodies using PostgreSQL.
 
 
 **Complete the tasks below**
